@@ -1,0 +1,5 @@
+# HTTPClient log
+rgb_api_client.log
+
+# Gem binary
+rgb_api_client-*.gem
